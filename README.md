@@ -1,4 +1,4 @@
-# Airbnb Clone
+# Property Booking Platform
 
 A full-stack property marketplace inspired by Airbnb. The project demonstrates listings, authentication, reservations, image uploads, location selection, and responsive application design.
 
@@ -28,8 +28,8 @@ A full-stack property marketplace inspired by Airbnb. The project demonstrates l
 ## Getting Started
 
 ```bash
-git clone https://github.com/jaysmartinez/airbnb-clone.git
-cd airbnb-clone
+git clone https://github.com/jaysmartinez/property-booking-platform.git
+cd property-booking-platform
 npm install
 ```
 
